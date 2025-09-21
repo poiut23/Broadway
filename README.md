@@ -38,6 +38,11 @@ This project demonstrates proficiency in:
 - Implementing responsive design principles
 - Transforming basic styling into polished, production-ready layouts
 
+##Screenshot
+![Header](Broadway/images/heading.png)
+![body and footer](Broadway/images/body_and_footer.png)
+
 ---
+[Page Link](https://poiut23.github.io/Broadway/)
 
 *This project was completed as part of a web development curriculum focusing on CSS layout and positioning techniques.*
