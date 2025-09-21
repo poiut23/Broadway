@@ -39,8 +39,8 @@ This project demonstrates proficiency in:
 - Transforming basic styling into polished, production-ready layouts
 
 ##Screenshot
-![Header](Broadway/images/heading.png)
-![body and footer](Broadway/images/body_and_footer.png)
+![Header](images/heading.png)
+![body and footer](images/body_and_footer.png)
 
 ---
 [Page Link](https://poiut23.github.io/Broadway/)
